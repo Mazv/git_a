@@ -1,2 +1,16 @@
 repo 
 https://github.com/Mazv/git_a.git 
+
+$ git remote add origin https://github.com/Mazv/git_a.git 
+
+mal@nmal2 MINGW64 /c/0000000_GIT (master)
+$ git push -u origin master
+Counting objects: 7, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (7/7), 609 bytes | 304.00 KiB/s, done.
+Total 7 (delta 0), reused 0 (delta 0)
+To https://github.com/Mazv/git_a.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
