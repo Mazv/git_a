@@ -14,3 +14,6 @@ To https://github.com/Mazv/git_a.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 
+pasidariau lygiagreciai direktorija
+
+
